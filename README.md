@@ -1,4 +1,4 @@
-# Bug-Tracking-Mmanagement-Platform
+# Bug-Tracking-Management-Platform
 
 -- Lightweight bug tracking management platform
 
